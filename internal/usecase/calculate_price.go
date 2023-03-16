@@ -1,6 +1,6 @@
 package usecase
 
-import "github.com/devfullcycle/gointensivo2/internal/entity"
+import "github.com/ronylucca/go-multithreading-kafka/internal/entity"
 
 type OrderInputDTO struct {
 	ID    string

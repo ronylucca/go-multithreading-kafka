@@ -3,7 +3,7 @@ package database
 import (
 	"database/sql"
 
-	"github.com/devfullcycle/gointensivo2/internal/entity"
+	"github.com/ronylucca/go-multithreading-kafka/internal/entity"
 )
 
 type OrderRepository struct {
